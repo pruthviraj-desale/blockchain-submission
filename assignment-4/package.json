@@ -1,0 +1,9 @@
+{
+  "name": "assignment-4-ipfs",
+  "version": "1.0.0",
+  "description": "IPFS upload and fetch demo",
+  "type": "module",
+  "dependencies": {
+    "web3.storage": "^4.5.5"
+  }
+}
